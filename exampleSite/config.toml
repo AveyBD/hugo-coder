@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "johndoe"
+baseURL = "https://debashish.dev"
+title = "Debashish Dev"
 
 theme = "hugo-coder"
 
@@ -15,13 +15,13 @@ pygmentsCodeFencesGuessSyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
-    avatarURL = "images/avatar.jpg"
-    #gravatar = "john.doe@example.com"
-    footerContent = "Enter a text here."
+    author = "Debashish Dev"
+    description = "Debabashish Dev's Personal Website"
+    keywords = "blog,developer,personal, javascript, folk song, music"
+    info = "/O+/JS/py/oldSchool/bookworm/caffeine/music/"
+    #avatarURL = "images/avatar.jpg"
+    gravatar = "debnpm@gmail.com"
+    footerContent = "in love with folk and mountains."
 
     dateFormat = "January 2, 2006"
 
@@ -126,34 +126,32 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fa fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/aveybd/"
 [[params.social]]
-    name = "Gitlab"
-    icon = "fa fa-gitlab"
+    name = "Facebook"
+    icon = "fa fa-facebook"
     weight = 2
-    url = "https://gitlab.com/johndoe/"
+    url = "https://facebook.com/avey.onion/"
 [[params.social]]
     name = "Twitter"
     icon = "fa fa-twitter"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://twitter.com/av3y/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
+    url = "https://www.linkedin.com/in/d3b/"
 [[params.social]]
     name = "Medium"
     icon = "fa fa-medium"
     weight = 5
-    url = "https://medium.com/@johndoe"
+    url = "https://medium.com/@aveybd"
 [[params.social]]
-    name = "RSS"
-    icon = "fa fa-rss"
+    name = "Soundcloud"
+    icon = "fa fa-soundcloud"
     weight = 6
-    url = "https://myhugosite.com/index.xml"
-    rel = "alternate"
-    type = "application/rss+xml"
+    url = "https://soundcloud.com/aveybd"
 
 
 [languages]
@@ -170,7 +168,7 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Blog"
             weight = 2
-            url = "posts/"
+            url = "https://blog.debashish.dev/"
 
             [[languages.en.menu.main]]
             name = "Projects"
@@ -179,39 +177,5 @@ disqusShortname = "yourdiscussshortname"
 
             [[languages.en.menu.main]]
             name = "Contact me"
-            weight = 5
-            url = "contact/"
-
-
-    [languages.pt-br]
-        languageName = "Português"
-        title = "João Ninguém"
-
-        [languages.pt-br.params]
-            author = "João Ninguém"
-            info = "Full Stack DevOps e Mágico"
-            description = "Sítio pessoal de João Ninguém"
-            keywords = "blog,desenvolvedor,pessoal"
-            footerContent = "Coloque algum texto aqui."
-
-        [languages.pt-br.menu]
-
-            [[languages.pt-br.menu.main]]
-            name = "Sobre"
-            weight = 1
-            url = "about/"
-
-            [[languages.pt-br.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "posts/"
-
-            [[languages.pt-br.menu.main]]
-            name = "Projetos"
-            weight = 3
-            url = "projects/"
-
-            [[languages.pt-br.menu.main]]
-            name = "Contato"
             weight = 5
             url = "contact/"
