@@ -1,6 +1,6 @@
 +++
-title = "Projetos"
+title = "Projets"
 slug = "projects"
 +++
 
-Em construção... Aguarde!
+গরিবের আবার প্রজেক্ট

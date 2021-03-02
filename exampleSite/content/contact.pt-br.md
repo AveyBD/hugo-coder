@@ -1,6 +1,6 @@
 +++
-title = "Contato"
+title = "Contact"
 slug = "contact"
 +++
 
-Me siga em @joaoninguem.
+hello@debashish.dev

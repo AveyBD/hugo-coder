@@ -1,6 +1,6 @@
 +++
-title = "Sobre Hugo"
+title = "About Me"
 slug = "about"
 +++
 
-Em construção... Aguarde!
+Nothing...
