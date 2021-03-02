@@ -3,4 +3,4 @@ title = "Projects"
 slug = "projects"
 +++
 
-Nothing to see here... Move along!
+ভার্সিটি লাইফ কাচ্ছি খায়া পার করসি, প্রজেক্ট ক্যমনে আশা করেন -_- 
